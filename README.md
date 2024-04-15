@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Clone repository') {
             steps {
-                git 'https://github.com/your-username/your-repository.git'
+                git 'https://github.com//https://github.com/Sukhmnn13/dev-ops-assg3/tree/main.git'
             }
         }
         stage('Build image') {
